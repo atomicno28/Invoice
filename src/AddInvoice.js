@@ -34,7 +34,7 @@ const AddInvoice = () => {
           <label htmlFor=""> Name </label>
           <input className='form-control' type="text" name='Name' onChange={handleDetailsChange}/>
           <label htmlFor=""> Mobileno. </label>
-          <input className='form-control' type="text" name='MobileNo.' onChange={handleDetailsChange}/>
+          <input className='form-control' type="text" name='Mobile' onChange={handleDetailsChange}/>
           <label htmlFor=""> Date </label>
           <input className='form-control' type="text" name='Date' onChange={handleDetailsChange}/>
        </div>
